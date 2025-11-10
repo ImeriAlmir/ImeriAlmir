@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Almir Imeri 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;7%2B+Years+of+Experience;AI+Integration+Specialist;Performance+Optimization+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2b0640&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;7%2B+Years+of+Experience;AI+Integration+Specialist;Performance+Optimization+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:a.imeri@imeri-it.com"><img src="https://img.shields.io/badge/Email-a.imeri%40imeri--it.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+436601999845"><img src="https://img.shields.io/badge/Phone-%2B43%20660%20199%209845-7C3AED?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="mailto:a.imeri@imeri-it.com"><img src="https://img.shields.io/badge/Email-a.imeri%40imeri--it.com-2b0640?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+436601999845"><img src="https://img.shields.io/badge/Phone-%2B43%20660%20199%209845-2b0640?style=for-the-badge&logo=phone&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/almir-imeri/"><img src="https://img.shields.io/badge/LinkedIn-almir--imeri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ImeriAlmir"><img src="https://img.shields.io/badge/GitHub-ImeriAlmir-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -131,12 +131,12 @@ Built a comprehensive Alexa Skill for stock trading with buy/sell features, port
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImeriAlmir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeriAlmir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImeriAlmir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2b0640&icon_color=2b0640" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeriAlmir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2b0640" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImeriAlmir&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImeriAlmir&theme=radical&hide_border=true&background=0D1117&ring=2b0640&fire=2b0640&currStreakLabel=2b0640" alt="GitHub Streak" />
 </p>
 
 ---
@@ -155,13 +155,13 @@ I'm always interested in discussing new technologies, innovative projects, or po
 
 <p align="center">
   <a href="mailto:a.imeri@imeri-it.com">
-    <img src="https://img.shields.io/badge/Email_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-2b0640?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/almir-imeri/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="tel:+436601999845">
-    <img src="https://img.shields.io/badge/Call_Me-7C3AED?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Call_Me-2b0640?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
 
@@ -172,5 +172,5 @@ I'm always interested in discussing new technologies, innovative projects, or po
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImeriAlmir&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ImeriAlmir&color=2b0640&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
